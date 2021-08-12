@@ -56,7 +56,7 @@ function App() {
       borderRadius:"10px",
       marginTop:"20px",
       margin:"auto"
-      }}>for soring click on the each colomn header like firstName if you click firstName then it shorted accoording to the firstName likewise</h1>
+      }}>for sorting data click on the each colomn header like firstName if you click firstName then it shorted accoording to the firstName likewise</h1>
       <br />
       <h1 style={{backgroundColor:"darkblue" ,
       padding:"20px",
